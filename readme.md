@@ -5,6 +5,9 @@
   <a href="https://github.com/iUnreallx">
     <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="Unreallx projects">
   </a>
+  <a href="https://t.me/Unreallx">
+    <img src="https://img.shields.io/badge/Unreallx-projects-orange" alt="My telegram">
+  </a>
 </p>
 
 
