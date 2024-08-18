@@ -19,5 +19,5 @@
 
 ## Clone project
 ```md
-[![Clone project](https://github.com/iUnreallx/WB-parser "Clone project")]
+git clone https://github.com/iUnreallx/WB-parser
 ```
