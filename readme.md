@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/iUnreallx">
-    <img src="https://img.shields.io/badge/unreallx%20projects-8B4513" alt="Unreallx projects">
+    <img src="https://img.shields.io/badge/unreallx%20projects%20-8A2BE2&&okey-8B4513" alt="Unreallx projects">
   </a>
 </p>
 
