@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=1px;&duration=3500&pause=1500&color=F79E2F&center=true&width=435&lines=WB+parser+bot" alt="Typing SVG">
 </p>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/unreallx%20project?style=flat-square&color=red">
+  <a href="https://github.com/iUnreallx">
+    <img src="https://img.shields.io/badge/Unreallx-red&projects-orange" alt="Unreallx projects">
+  </a>
 </p>
 
 
