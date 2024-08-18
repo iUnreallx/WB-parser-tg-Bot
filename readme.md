@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=1px;&duration=3500&pause=1500&color=F79E2F&center=true&width=435&lines=WB+parser+bot" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=1px;&duration=3500&pause=1500&color=F79E2F&center=true&width=435&lines=WB+parser+bot" alt="Typing SVG">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Unreallx%20projects-blue" alt="badge">
+  <a href="https://github.com/iUnreallx">
+    <img src="https://img.shields.io/badge/unreallx%20projects%20-8A2BE2&okey-8B4513" alt="Unreallx projects">
+  </a>
 </p>
 
 
