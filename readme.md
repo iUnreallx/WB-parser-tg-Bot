@@ -1,10 +1,11 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=1px;&duration=3500&pause=1500&color=F79E2F&center=true&width=435&lines=WB+parser+bot" alt="Typing SVG">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=35&letterSpacing=1px;&duration=3500&pause=1500&color=F79E2F&center=true&width=435&lines=WB+parser+bot" alt="Typing SVG">
+</p>
+<p align="center"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Unreallx%20projects">
 </p>
 
-## What can this bot do?
+## 🔎 What can this bot do?
 * Search items on the WB site
 * Displays complete product data dynamically
 * Performs a point search by article
@@ -17,7 +18,7 @@
 * Let's put all the variables in ```.env```
 * Let's run the bot: ```python3 bot.py```
 
-## Clone project
+## 🔥 Clone project
 ```md
 git clone https://github.com/iUnreallx/WB-parser
 ```
