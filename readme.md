@@ -1,1 +1,1 @@
-![Reallx Projects](https://img.shields.io/badge/Unreallx%20projects-blue)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=400&color=D0524B&center=true&random=false&width=1000&height=100&lines=Ilya Developer" alt="BOTIK" /></a>
